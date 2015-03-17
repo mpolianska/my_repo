@@ -1,6 +1,6 @@
-# my_repo
+## my_repo
 my test repo
 
 content:
--CV
--sql scripts
+*CV
+*sql scripts
